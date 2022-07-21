@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="rec">rec</string>
+    <string name="send">Send</string>
+    <string name="write_some_thing">write some thing</string>
+    <string name="show">Show</string>
+</resources>
